@@ -47,4 +47,6 @@ pip install pyqt5 pandas openpyxl matplotlib beautifulsoup4 requests
   "directory": "C:/Path/Where/You/Want/To/Save/Excel"
 }
 
+python maincode.py
+
 
